@@ -22,11 +22,8 @@ superpower: Consistency + Hard Work 🚀
 
 🌐 Languages
 
-<table>
-<tr>
-<th>Proficiency</th>
-<th>Languages</th>
-</tr>
+Proficiency
+Languages
 
 <tr>
 <td>🟢 Professional</td>
