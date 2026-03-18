@@ -71,7 +71,7 @@ superpower: Consistency + Hard Work 🚀
 ## 🤝 Let's Build Something Together
 
 💼 Interested in:
-`AI` • `Web Development` • `Data Science`
+AI • Web Development • Data Science
 
 🌍 Open to learning & collaboration 🚀
 
@@ -87,6 +87,6 @@ superpower: Consistency + Hard Work 🚀
 ---
 
 <p align="center">
-  ✨ <b>Do Something Amazing</b> ✨ <br><br>
+  ✨ <b>Do Something Amazing</b> ✨ <br></br>
   <img src="https://komarev.com/ghpvc/?username=codewithdhaarmi130&label=Profile%20views&color=blue&style=flat" />
 </p>
