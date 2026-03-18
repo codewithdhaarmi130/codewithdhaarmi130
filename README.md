@@ -21,11 +21,10 @@ goal: Become AI Engineer 💙
 superpower: Consistency + Hard Work 🚀
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -33,8 +32,9 @@ superpower: Consistency + Hard Work 🚀
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codewithdhaarmi130&theme=tokyonight">
+  <img src="https://streak-stats.demolab.com/?user=codewithdhaarmi130&theme=tokyonight" />
 </p>
+
 
 ---
 
