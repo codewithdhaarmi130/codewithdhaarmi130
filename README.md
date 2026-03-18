@@ -25,14 +25,8 @@ superpower: Consistency + Hard Work 🚀
 Proficiency
 Languages
 
-<tr>
-<td>🟢 Professional</td>
-<td>English • Hindi • Gujarati</td>
-</tr>
-
-</table>
-
----
+🟢 Professional</td>
+English • Hindi • Gujarati
 
 🤝 Let's Build Something Together
 
@@ -41,18 +35,3 @@ AI • Web Development • Data Science
 
 🌍 Open to learning & collaboration 🚀
 
-<p align="center">
-  <a href="mailto:dhaarmimewada@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-red">
-  </a>
-  <a href="https://github.com/codewithdhaarmi130">
-    <img src="https://img.shields.io/badge/GitHub-Connect-black">
-  </a>
-</p>
-
----
-
-<p align="center">
-  ✨ <b>Do Something Amazing</b> ✨ <br></br>
-  <img src="https://komarev.com/ghpvc/?username=codewithdhaarmi130&label=Profile%20views&color=blue&style=flat" />
-</p>
