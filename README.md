@@ -20,7 +20,7 @@ status: Learning Python & DSA
 goal: Become AI Engineer 💙
 superpower: Consistency + Hard Work 🚀
 
-## 🌐 Languages
+🌐 Languages
 
 <table>
 <tr>
@@ -37,7 +37,7 @@ superpower: Consistency + Hard Work 🚀
 
 ---
 
-## 🤝 Let's Build Something Together
+🤝 Let's Build Something Together
 
 💼 Interested in:
 AI • Web Development • Data Science
