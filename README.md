@@ -20,17 +20,54 @@ status: Learning Python & DSA
 goal: Become AI Engineer 💙
 superpower: Consistency + Hard Work 🚀
 
-📊 GitHub Stats
+## 🙋‍♀️ About Me
+- 🌱 I’m currently learning **Python & Data Structures**
+- 💡 Interested in **Problem Solving & Coding**
+- 🎯 Goal: Become a skilled developer
+- ⚡ Fun fact: I love coding + music 🎶
 
-🐍 Most Used Languages
+---
 
-🟢 Professional
-English • Hindi • Gujarati
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode" />
+</p>
 
-🤝 Let's Build Something Together
+---
 
-💼 Interested in:
-AI • Web Development • Data Science
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight" />
+</p>
 
-🌍 Open to learning & collaboration 🚀
+---
 
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=codewithdhaarmi130&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://github.com/codewithdhaarmi130">
+    <img src="https://img.shields.io/badge/GitHub-Dhaarmi-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+## 💖 Quote
+> "Code. Learn. Repeat. 🚀"
+
+---
+
+<p align="center">✨ Thank you for visiting my profile ✨</p>
