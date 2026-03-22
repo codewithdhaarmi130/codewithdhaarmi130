@@ -60,4 +60,4 @@ superpower: Consistency + Hard Work 🚀
 
 ---
 
-<p align="center">✨ Thank you for visiting my profile ✨</p>
+                                                                       ✨ Thank you for visiting my profile ✨
