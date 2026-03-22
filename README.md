@@ -25,8 +25,6 @@ superpower: Consistency + Hard Work 🚀
 - 💡 Interested in **Problem Solving & Coding**
 - 🎯 Goal: Become a skilled developer
 - ⚡ Fun fact: I love coding + music 🎶
-
----
 ## 🛠️ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode" />
@@ -54,7 +52,6 @@ superpower: Consistency + Hard Work 🚀
 </p>
 
 ---
-
 ## 💖 Quote
 > "Code. Learn. Repeat. 🚀"
 
