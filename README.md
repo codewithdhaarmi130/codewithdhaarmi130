@@ -26,30 +26,22 @@ superpower: Consistency + Hard Work 🚀
 - 🎯 Goal: Become a skilled developer
 - ⚡ Fun fact: I love coding + music 🎶
 ## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode"> </p>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight"> </p>
 
 ---
 
 ## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codewithdhaarmi130&theme=tokyonight" />
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=codewithdhaarmi130&theme=tokyonight"> </p>
 
 ---
 
 ## 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight"> </p>
 
 ---
 ## 💖 Quote
