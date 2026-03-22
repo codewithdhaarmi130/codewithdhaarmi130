@@ -77,12 +77,19 @@ Git · GitHub · VS Code · GDB
 🤔 I always ask: “Why does this work?”
 🚀 I believe in consistency over motivation
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight"> </p>
-🔥 Streak Stats
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=codewithdhaarmi130&theme=tokyonight"> </p>
-📈 Top Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight"> </p>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=codewithdhaarmi130&theme=tokyonight&hide_border=true&border_radius=15">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=donut&theme=tokyonight&hide_border=true">
+</p>
 
 🌐 Languages
 🟢 English · Hindi · Gujarati
