@@ -27,10 +27,9 @@ Before finishing my first year, I focused on Python & Data Structures, built mul
 I don't wait for experience — I go get it. 🚀
 
 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-</p>
+💻 Languages
+
+Python 🐍 · C · Basics of HTML, CSS, JavaScript
 
 🧠 Core Skills
 
