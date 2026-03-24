@@ -13,7 +13,7 @@
 ## 🌸 Who Am I?
 
 ```yaml
-# 👋 Hi, I'm Dhaarmi
+👋 Hi, I'm Dhaarmi
 
 - 📍 Location: India 🇮🇳  
 - 🎓 Education: Student  
@@ -53,7 +53,7 @@ Git · GitHub · VS Code · GDB
 🧩 Problem Solving (LeetCode / Practice)
 💡 Writing optimized code
 
-## 🚀 Projects (Python + Logic Based)
+🚀 Projects (Python + Logic Based)
 
 | 💡 Project | 📄 Description |
 |----------|--------------|
@@ -64,7 +64,7 @@ Git · GitHub · VS Code · GDB
 | 🤖 Mini Chatbot | Basic chatbot using Python logic |
 | 🖼️ Image Filter AI | Basic AI to filter images using Python |
 
-## 🎯 Goals
+🎯 Goals
 - Become strong in DSA & Problem Solving  
 - Build real-world Python projects  
 - Improve skills in Cybersecurity 🔐  
