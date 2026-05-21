@@ -74,7 +74,7 @@ Git · GitHub · VS Code · GDB
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdhaarmi130)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdhaarmi130&theme=dark)](https://git.io/streak-stats)
 
 ## 📈 Activity Graph
 
