@@ -35,10 +35,10 @@ Python 🐍 · C · Basics of HTML, CSS, JavaScript
 - Problem Solving  
 - Logical Thinking
 
-- <!-- GitHub Star link -->
+<!-- GitHub Star link -->
 <p align="center">
   <a href="https://stars.github.com/profiles/codewithdhaarmi130/">
-    <img src="https://github.com/codewithdhaarmi130/codewithdhaarmi130/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+    <img src="https://github.com/codewithdhaarmi130/codewithdhaarmi130/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2026"/></a>
 </p>
 
 ### 🧪 Platforms & Practice
