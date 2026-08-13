@@ -73,6 +73,8 @@ Git · GitHub · VS Code · GDB
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/...)
+
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight)
 
