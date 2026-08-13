@@ -68,11 +68,9 @@ Git · GitHub · VS Code · GDB
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="./profile/stats.svg" height="180"/>
-  <img src="./profile/top-langs.svg" height="180"/>
+  <img src="./profile/stats.svg" width="420" alt="GitHub Stats"/>
+  <img src="./profile/top-langs.svg" width="350" alt="Top Languages"/>
 </p>
 
 
