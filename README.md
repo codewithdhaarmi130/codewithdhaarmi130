@@ -69,13 +69,9 @@ Git · GitHub · VS Code · GDB
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" width="420" alt="GitHub Stats"/>
-  <img src="./profile/top-langs.svg" width="350" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight&hide_border=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight&hide_border=true" width="350"/>
 </p>
-
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/...)
-
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight)
 
