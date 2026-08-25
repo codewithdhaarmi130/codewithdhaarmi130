@@ -77,7 +77,7 @@ Git · GitHub · VS Code · GDB
 
 <p align="center">
   <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=codewithdhaarmi130&theme=tokyonight&hide_border=false&border=414868&stroke=414868&background=1a1b27&border_radius=8"
+    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=codewithdhaarmi130&theme=tokyonight&hide_border=false&border=414868&stroke=414868&background=0D1117&border_radius=10"
     alt="GitHub Streak"
   />
 </p>
@@ -86,8 +86,9 @@ Git · GitHub · VS Code · GDB
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=codewithdhaarmi130&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=codewithdhaarmi130&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true"
     alt="GitHub Activity Graph"
+    width="100%"
   />
 </p>
 
