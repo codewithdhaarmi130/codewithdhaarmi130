@@ -73,20 +73,18 @@ Git · GitHub · VS Code · GDB
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
-## 🔥 GitHub Streak
+## 🌌 GitHub Stats
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=codewithdhaarmi130&theme=tokyonight&hide_border=false&stroke=58A6FF&border=58A6FF&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E"
+    src="https://streak-stats.demolab.com/?user=codewithdhaarmi130&theme=tokyonight&hide_border=false&border=7AA2F7&stroke=7AA2F7&background=1A1B26&ring=7AA2F7&fire=BB9AF7&currStreakNum=C0CAF5&sideNums=C0CAF5&currStreakLabel=7AA2F7&sideLabels=9AA5CE&dates=565F89"
     alt="GitHub Streak"
   />
 </p>
 
-## 📊 GitHub Activity
-
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=codewithdhaarmi130&theme=tokyo-night&hide_border=false&area=true&radius=16"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=codewithdhaarmi130&bg_color=1A1B26&color=C0CAF5&line=7AA2F7&point=BB9AF7&area_color=7AA2F7&area=true&hide_border=false&radius=12"
     alt="GitHub Activity Graph"
   />
 </p>
