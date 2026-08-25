@@ -75,14 +75,15 @@ Git · GitHub · VS Code · GDB
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=codewithdhaarmi130&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
+<img src="https://streak-stats.demolab.com?user=codewithdhaarmi130&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithdhaarmi130&theme=tokyo-night&hide_border=true)
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithdhaarmi130&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
 
 ---
 
