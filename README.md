@@ -77,7 +77,7 @@ Git · GitHub · VS Code · GDB
 
 <p align="center">
   <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=codewithdhaarmi130&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=codewithdhaarmi130&theme=tokyonight&hide_border=false&border=414868&stroke=414868&background=1a1b27&border_radius=8"
     alt="GitHub Streak"
   />
 </p>
