@@ -84,9 +84,9 @@ Git · GitHub · VS Code · GDB
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=codewithdhaarmi130&theme=tokyo-night&hide_border=false&radius=12"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=codewithdhaarmi130&theme=tokyo-night&hide_border=true&area=true&radius=10"
     width="100%"
-    alt="Dhaarmi's GitHub Activity Graph"
+    alt="GitHub Activity Graph"
   />
 </p>
 
