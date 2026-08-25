@@ -86,9 +86,8 @@ Git · GitHub · VS Code · GDB
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=codewithdhaarmi130&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=codewithdhaarmi130&theme=tokyo-night&hide_border=true&area=true&radius=8&days=31"
     alt="GitHub Activity Graph"
-    width="100%"
   />
 </p>
 
