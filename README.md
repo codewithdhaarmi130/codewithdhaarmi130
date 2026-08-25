@@ -77,16 +77,16 @@ Git · GitHub · VS Code · GDB
 
 <p align="center">
   <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=codewithdhaarmi130&theme=tokyonight&hide_border=false&border=414868&stroke=414868&background=0D1117&border_radius=10"
+    src="https://streak-stats.demolab.com/?user=codewithdhaarmi130&theme=tokyonight&hide_border=false&stroke=58A6FF&border=58A6FF&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E"
     alt="GitHub Streak"
   />
 </p>
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=codewithdhaarmi130&theme=tokyo-night"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=codewithdhaarmi130&theme=tokyo-night&hide_border=false&area=true&radius=16"
     alt="GitHub Activity Graph"
   />
 </p>
