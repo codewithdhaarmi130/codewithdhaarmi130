@@ -76,8 +76,12 @@ Git · GitHub · VS Code · GDB
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codewithdhaarmi130&theme=tokyonight&hide_border=true" width="500" alt="GitHub Streak"/>
+  <img
+    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=codewithdhaarmi130&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
 ## 📈 GitHub Activity
 
 <p align="center">
