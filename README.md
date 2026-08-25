@@ -82,14 +82,6 @@ Git · GitHub · VS Code · GDB
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=codewithdhaarmi130&theme=tokyo-night&hide_border=true&area=true&radius=10"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
 ## 🎯 Goals
 - Become strong in DSA & Problem Solving  
 - Build real-world Python projects  
