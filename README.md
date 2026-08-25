@@ -76,10 +76,7 @@ Git · GitHub · VS Code · GDB
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=codewithdhaarmi130"
-    alt="GitHub Streak"
-  />
+  <img src="./profile/streak.svg" alt="GitHub Streak"/>
 </p>
 
 ## 📈 GitHub Activity
@@ -90,7 +87,6 @@ Git · GitHub · VS Code · GDB
     alt="GitHub Activity Graph"
   />
 </p>
----
 
 ## 🎯 Goals
 - Become strong in DSA & Problem Solving  
