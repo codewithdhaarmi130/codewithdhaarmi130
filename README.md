@@ -69,15 +69,15 @@ Git · GitHub · VS Code · GDB
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ## 🌌 GitHub Streak & Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=codewithdhaarmi130&theme=tokyonight&hide_border=false&border=414868&stroke=414868&background=0D1117&border_radius=10"
+    src="https://streak-stats.demolab.com/?user=codewithdhaarmi130&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
